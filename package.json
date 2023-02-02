@@ -16,7 +16,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.4.1",
+    "gatsby": "^3.15.0",
     "gatsby-source-notion-article": "1.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
